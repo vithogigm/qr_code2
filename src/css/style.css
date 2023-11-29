@@ -9,7 +9,7 @@ body{
 
 .container{
     background-color: white;
-    height: 75%;
+    height: 70%;
     width: 25%;
     border-radius: 15px;
 }
@@ -17,6 +17,7 @@ body{
 .foto{
     margin-top: 21px;
     margin-left: 21px;
+    margin-right: 21px;
     width: 90%;
     border-radius: 15px;
 }
