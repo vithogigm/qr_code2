@@ -1,0 +1,29 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Outfit', sans-serif;
+}
+
+.container{
+    background-color: white;
+    height: 75%;
+    width: 25%;
+    border-radius: 15px;
+}
+
+.foto{
+    margin-top: 21px;
+    margin-left: 21px;
+    width: 90%;
+    border-radius: 15px;
+}
+
+.description{
+    text-align: center;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
